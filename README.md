@@ -12,8 +12,7 @@ When the user first comes to the webpage they will see the header, a breif intro
 #### Using the search criteria
 The table displays the data sorted by the following column headers: Date, State, Country, Shape, Duration, and Comments. This filters allow for the user to type in their search criteria under the appropriate section. 
 ![](https://github.com/chichi-ugo/UFOs/blob/main/static/images/filters.PNG?raw=true)
-Each entry box shows an example for each section. ![](![image](https://user-images.githubusercontent.com/106582082/192412173-032d850c-5ce7-4ee4-9007-a2d4c137c3fb.png)
-)
+Each entry box shows an example for each section. ![](https://github.com/chichi-ugo/UFOs/blob/main/static/images/placeholders.PNG?raw=true)
 
 When the user enters a valid option into any of the filters, the table repopulates with the desired criteria. ![](https://github.com/chichi-ugo/UFOs/blob/main/static/images/example_search.PNG?raw=true) If an invalid input is typed in, the table will return as empty. ![](https://github.com/chichi-ugo/UFOs/blob/main/static/images/invalid_search.PNG?raw=true)
 
